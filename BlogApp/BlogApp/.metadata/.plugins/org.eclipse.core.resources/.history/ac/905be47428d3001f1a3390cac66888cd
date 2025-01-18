@@ -1,0 +1,29 @@
+package com.pa.blog.payloads;
+
+import java.util.Date;
+
+import com.pa.blog.entities.Category;
+import com.pa.blog.entities.User;
+
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+
+public class PostDto {
+
+	private String title;
+	
+	private String  content;
+	
+	private String imageName;
+	
+	private Date addedDate;
+	
+	private Category category;
+	
+	private User user;
+	
+	
+	
+	
+	
+}

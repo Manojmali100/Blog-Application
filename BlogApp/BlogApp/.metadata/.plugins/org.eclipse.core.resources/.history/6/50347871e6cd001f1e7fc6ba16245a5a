@@ -1,0 +1,5 @@
+package com.pa.blog.controllers;
+
+public class CategoryController {
+
+}

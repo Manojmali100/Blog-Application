@@ -1,0 +1,14 @@
+package com.pa.blog.payloads;
+
+public class PostDto {
+
+	private String title;
+	
+	private String  content;
+	
+	
+	
+	
+	
+	
+}

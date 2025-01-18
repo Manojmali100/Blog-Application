@@ -1,0 +1,19 @@
+package com.pa.blog.services;
+
+import com.pa.blog.entities.Post;
+import com.pa.blog.payloads.PostDto;
+
+public interface PostService {
+
+	//create
+	
+	Post createPost(PostDto postDto);
+	
+	//update
+	
+	Post updatePost(PostDto postDto,Integer postId);
+	
+	//delete
+	
+	void deletePost(Integer postId);
+}
