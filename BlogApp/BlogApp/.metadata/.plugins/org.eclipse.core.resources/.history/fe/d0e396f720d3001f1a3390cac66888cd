@@ -1,5 +1,0 @@
-package com.pa.blog.services.impl;
-
-public class PostServiceImpl implements PostService {
-
-}

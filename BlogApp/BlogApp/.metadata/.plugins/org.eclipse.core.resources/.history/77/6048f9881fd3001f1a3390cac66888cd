@@ -1,5 +1,0 @@
-package com.pa.blog.payloads;
-
-public class PostDto {
-
-}

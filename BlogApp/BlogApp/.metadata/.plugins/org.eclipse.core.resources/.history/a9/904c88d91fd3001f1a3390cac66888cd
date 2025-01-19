@@ -1,5 +1,0 @@
-package com.pa.blog.services;
-
-public interface PostService {
-
-}
